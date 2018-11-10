@@ -1,0 +1,1 @@
+lon    lat    cloud(0 for clear, 1 for cloud)      topo(0 for sea, 1 for land)          616 spectral
